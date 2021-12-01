@@ -23,9 +23,21 @@ body {
   padding-left: 100px;
 }
 
+.job-title {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-family: 'Cabin Sketch', cursive;
+  font-weight: bold;
+  font-size: 68px;
+}
+
 .sns {
   position: relative;
-  margin-top: 180px;
+  margin-top: 130px;
   margin-left: 1100px;
 }
 
